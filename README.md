@@ -5,7 +5,7 @@ Dataset yang kami pilih bernama <b>Agri-food CO2 emission dataset - Forecasting 
 <li>Dataset emisi CO2 sektor pertanian ini dibuat dengan menggabungkan dan memproses ulang sekitar selusin dataset individu dari Food and Agriculture Organization (FAO) dan data dari IPCC. Dataset ini menggambarkan emisi CO2 yang berkaitan dengan sektor agri-pangan, yang menyumbang sekitar 62% dari total emisi tahunan global. </li>
 <li>Emisi dari sektor agri-pangan memiliki keterkaitan yang signifikan ketika mempelajari perubahan iklim. Dataset ini menunjukkan bahwa emisi dari sektor ini memberikan kontribusi yang substansial terhadap total emisi tahunan global. </li>
 <li>Memahami dan menangani dampak lingkungan dari industri agri-pangan sangat penting untuk mengurangi perubahan iklim serta mengembangkan praktik berkelanjutan di sektor ini. </li>
-
+<br>
 Detail setiap kolom dari dataset : <br>
 <li> Savanna fires: Emisi dari kebakaran di ekosistem savana. </li>
 <li> Forest fires: Emisi dari kebakaran di area hutan. </li>
