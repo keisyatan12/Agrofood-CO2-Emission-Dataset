@@ -1,5 +1,5 @@
 # Agrofood-CO2-Emission-Dataset
-Pengerjaan project ini dilakukan secara berkelompok dan didasarkan untuk memenuhi persyaratan lulus mata kuliah Fundamental Big Data. 
+Pengerjaan project ini dilakukan secara berkelompok dan didasarkan untuk memenuhi persyaratan lulus mata kuliah Fundamental Big Data. <br>
 Sumber dataset : [LINK](https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml) <br>
 Dataset yang kami pilih bernama <b>Agri-food CO2 emission dataset - Forecasting ML</b>. <br>
 <li>Dataset emisi CO2 sektor pertanian ini dibuat dengan menggabungkan dan memproses ulang sekitar selusin dataset individu dari Food and Agriculture Organization (FAO) dan data dari IPCC. Dataset ini menggambarkan emisi CO2 yang berkaitan dengan sektor agri-pangan, yang menyumbang sekitar 62% dari total emisi tahunan global. </li>
